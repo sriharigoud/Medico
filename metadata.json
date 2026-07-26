@@ -1,0 +1,6 @@
+{
+  "name": "Medico",
+  "description": "On-demand pharmacy delivery & prescription management app with real-time tracking, price quotes, and profile management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
